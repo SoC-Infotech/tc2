@@ -52,13 +52,32 @@ This wireframe design has a total of 8 pages, each with its own unique purpose t
 ### Evaluation of Hangman Game
 
 #### Main Menu Screens
-
 ![](images/A7.png)
 
 ##### The Home page is pretty straightforward with presenting the options for the user to interact with as seen in figure 2.1. Although the design is rather basic, it suits the capabilities of the device it is running as we did not want to have a program that is very demanding and can cause issues such as delays, freezing or crashing (Minimalist Design).
 
+##### When selecting either option, it changes screens to what the user has selected. The user can see they have selected the Play button as a loading screen comes onto the screen (Error Prevention). On the Help Screen, there is a large BACK button that will bring the user back to the main menu screen to either press Play or Quit the game (Error Prevention) (User Control)
 
+#### Neutral Game Screens
+![](images/A8.png)
 
+##### The introduction screen shown in fig 2.4 shows the user the theme of the word, the number of words/letters that make up the word and includes the amount of lives the player has (Error Prevention).
+
+##### The neutral game screen in fig 2.5 is the main screen that a user will see when after the introduction, this screen is what the user mostly interacts with the letter where they either swipe or use volume buttons to change the letter as it is explained in the Help Page (User Control / Error Prevention).
+
+##### When doing the design, it seemed better to keep the essential text larger than the rest, as seen where the Theme of the word and the Letter is much larger than other items on the screen (Aesthetic / Error Prevention).
+
+#### Answer Screens
+![](images/A9.png)
+
+##### When the user guesses the wrong letter as seen in fig 2.6, the screen changes to that letter with a red cross over it with the text “Wrong” (will fix) over said letter (Error Prevention), the screen will automatically switch back to Neutral Game Screen where the orange number will switch to the amount of lives user has left. (Aesthetic)
+
+##### When the user guesses the correct letter as seen in fig 2.7, the box surrounding the letter turns green and the correct letter is filled in a spot. (Error Prevention)
+
+##### For both instances, the guessed letter will not show up anymore when they scroll through the remaining letters, this only changes in a new round or game. (User Control)
+
+#### End Game Screens
+![](images/A10.png)
 
 
 
