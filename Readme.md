@@ -6,8 +6,14 @@
 
 ## Activity 2: ASB Mobile vs Desktop
 
+![](images/A2.png)
 
 ## Activity 3: TradeMe
+
+![](images/A3.png)
+
+## Activity 3: Usability goals: AirNZ
+
 
 
 
