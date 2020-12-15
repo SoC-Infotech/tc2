@@ -37,3 +37,5 @@ This wireframe design has a total of 8 pages, each with its own unique purpose t
 9.	Win Screen. When the correct phrase is guessed then the player wins. Screen shows the Phrase, “You win” in large text as well as Score, Return home or Next round buttons. 
 
 ## Activity 6: Heuristic
+
+hello hh
