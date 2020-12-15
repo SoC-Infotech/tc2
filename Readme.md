@@ -2,7 +2,7 @@
 
 ## Activity 1: Parkmate Design
 
-
+![](images/A1.png)
 
 ## Activity 2: ASB Mobile vs Desktop
 
