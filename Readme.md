@@ -12,10 +12,9 @@
 
 ![](images/A3.png)
 
-## Activity 3: Usability goals: AirNZ
+## Activity 4: Usability goals: AirNZ
 
-
-
+![](images/A4.png)
 
 ## Activity 5: Paper Wireframe 
 
@@ -27,7 +26,7 @@
 
 ### Paper Wireframe
 
-
+![](images/A5.png)
 
 ### Main processes of App
 
@@ -44,4 +43,32 @@ This wireframe design has a total of 8 pages, each with its own unique purpose t
 
 ## Activity 6: Heuristic
 
-hello hh
+### Heuristic Evaluation: Hangman Game 
+
+#### Heuristic Principles:
+
+![](images/A6.png)
+
+### Evaluation of Hangman Game
+
+#### Main Menu Screens
+
+![](images/A7.png)
+
+##### The Home page is pretty straightforward with presenting the options for the user to interact with as seen in figure 2.1. Although the design is rather basic, it suits the capabilities of the device it is running as we did not want to have a program that is very demanding and can cause issues such as delays, freezing or crashing (Minimalist Design).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
